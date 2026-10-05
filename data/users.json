@@ -1,10 +1,10 @@
 [
     {
-        "id": "u_54a27b574b",
-        "name": "Dzikry Ramadhany",
-        "email": "ramadhanydzikry@gmail.com",
-        "password": "$2y$10$SEzrkE5qzlYLHxc8xUI43OhmtSRLzu1TKC.9/DjijlT8axZ3I40gC",
-        "created_at": "2026-10-03 16:34:58",
+        "id": "u_59b8eedaeb",
+        "name": "dzikry ramadhany",
+        "email": "dzikry@gmail.com",
+        "password": "$2y$10$dZ.gsjot7sHVZFngt15UsevA5VHwoh6B3gXWn4.8BIF4O6Fpiygtq",
+        "created_at": "2026-10-05 19:33:15",
         "remember_hash": null,
         "remember_expires": null
     }
